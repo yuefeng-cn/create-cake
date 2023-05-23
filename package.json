@@ -1,0 +1,17 @@
+{
+  "name": "create-cake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "create-cake": "create-cakejs.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "egg-init": "^2.2.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
